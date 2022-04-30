@@ -1,0 +1,14 @@
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.exe
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.deps.json
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.runtimeconfig.json
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.runtimeconfig.dev.json
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.dll
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.pdb
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.csproj.AssemblyReference.cache
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.AssemblyInfoInputs.cache
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.AssemblyInfo.cs
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.dll
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.pdb
+C:\Users\jose-\source\repos\ConsoleApp3\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.genruntimeconfig.cache
