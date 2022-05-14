@@ -1,0 +1,14 @@
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.csproj.AssemblyReference.cache
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.AssemblyInfoInputs.cache
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.AssemblyInfo.cs
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.csproj.CoreCompileInputs.cache
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\bin\Debug\netcoreapp3.1\menu calculo gemetrico.exe
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\bin\Debug\netcoreapp3.1\menu calculo gemetrico.deps.json
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\bin\Debug\netcoreapp3.1\menu calculo gemetrico.runtimeconfig.json
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\bin\Debug\netcoreapp3.1\menu calculo gemetrico.runtimeconfig.dev.json
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\bin\Debug\netcoreapp3.1\menu calculo gemetrico.dll
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\bin\Debug\netcoreapp3.1\menu calculo gemetrico.pdb
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.dll
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.pdb
+C:\Users\jose-\source\repos\ConsoleApp3\menu calculo gemetrico\menu calculo gemetrico\obj\Debug\netcoreapp3.1\menu calculo gemetrico.genruntimeconfig.cache

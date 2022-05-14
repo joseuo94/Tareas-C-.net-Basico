@@ -1,0 +1,14 @@
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\bin\Debug\netcoreapp3.1\validacion de datos.exe
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\bin\Debug\netcoreapp3.1\validacion de datos.deps.json
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\bin\Debug\netcoreapp3.1\validacion de datos.runtimeconfig.json
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\bin\Debug\netcoreapp3.1\validacion de datos.runtimeconfig.dev.json
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\bin\Debug\netcoreapp3.1\validacion de datos.dll
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\bin\Debug\netcoreapp3.1\validacion de datos.pdb
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.csproj.AssemblyReference.cache
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.AssemblyInfoInputs.cache
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.AssemblyInfo.cs
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.csproj.CoreCompileInputs.cache
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.dll
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.pdb
+C:\Users\jose-\source\repos\ConsoleApp3\validacion de datos\validacion de datos\obj\Debug\netcoreapp3.1\validacion de datos.genruntimeconfig.cache

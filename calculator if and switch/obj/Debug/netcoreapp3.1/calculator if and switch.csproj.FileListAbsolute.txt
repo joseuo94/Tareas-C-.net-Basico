@@ -1,0 +1,14 @@
+C:\Users\jose-\source\repos\calculator if and switch\bin\Debug\netcoreapp3.1\calculator if and switch.exe
+C:\Users\jose-\source\repos\calculator if and switch\bin\Debug\netcoreapp3.1\calculator if and switch.deps.json
+C:\Users\jose-\source\repos\calculator if and switch\bin\Debug\netcoreapp3.1\calculator if and switch.runtimeconfig.json
+C:\Users\jose-\source\repos\calculator if and switch\bin\Debug\netcoreapp3.1\calculator if and switch.runtimeconfig.dev.json
+C:\Users\jose-\source\repos\calculator if and switch\bin\Debug\netcoreapp3.1\calculator if and switch.dll
+C:\Users\jose-\source\repos\calculator if and switch\bin\Debug\netcoreapp3.1\calculator if and switch.pdb
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.csproj.AssemblyReference.cache
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.AssemblyInfoInputs.cache
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.AssemblyInfo.cs
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.csproj.CoreCompileInputs.cache
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.dll
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.pdb
+C:\Users\jose-\source\repos\calculator if and switch\obj\Debug\netcoreapp3.1\calculator if and switch.genruntimeconfig.cache

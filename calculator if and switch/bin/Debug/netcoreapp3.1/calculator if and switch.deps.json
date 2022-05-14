@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calculator if and switch/1.0.0": {
+        "runtime": {
+          "calculator if and switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculator if and switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
